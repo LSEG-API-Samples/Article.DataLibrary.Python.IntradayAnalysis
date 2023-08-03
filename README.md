@@ -4,7 +4,7 @@ Intraday market analysis is a powerful practice that enables traders and analyst
 
 The simplicity of generating intraday market reports lays the foundation for focused analysis. Traders can easily identify and analyze price patterns, detect market trends, and explore potential trading opportunities. Analysts, armed with comprehensive reports, can delve into detailed market behavior, study volume dynamics, and make well-informed recommendations.
 
-Refer to the [Intraday Market Analysis Article]() defined within the Refinitiv Developer Community for more details.
+Refer to the [Intraday Market Analysis Article](https://developers.refinitiv.com/en/article-catalog/article/simplifying-intraday-market-analysis) defined within the Refinitiv Developer Community for more details.
 
 ## <a id="disclaimer"></a>Disclaimer
 The source code presented in this project has been written by LSEG only for the purpose of illustrating the concepts of creating example scenarios using the Refinitiv Data Library for Python.
